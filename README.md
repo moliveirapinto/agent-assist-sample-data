@@ -1,11 +1,17 @@
-This solution will pre-populate some configurations to accelerate your admin work.
+# Agent Assist Sample Data
 
-##What is Quality Assurance Agent (QAA)?
+This solution pre-populates a set of ready-to-use configurations in Dynamics 365 Contact Center, giving admins and supervisors a working baseline for the AI-powered agent suite — so you can explore, demo, and validate features without starting from scratch.
+
+## What is Quality Assurance Agent (QAA)?
 
 Quality Assurance Agent (QAA) is the new AI-powered supervisor agent in Dynamics 365 Contact Center. It continuously monitors conversations, evaluates quality and compliance, provides coaching nudges, and alerts supervisors in real time when issues are detected. It also evaluates completed conversations and generates scores, insights, and recommendations.
 
-According to Microsoft's Contact Center agent architecture:
+![Quality and Coaching Dashboard](images/quality-coaching.jpeg)
 
-Customer Assist Agent = customer and agent assistance
-Quality Assurance Agent (QAA) = supervisor persona, quality, coaching, compliance, monitoring
-Service Operations Agent = admin and operational management persona
+## Microsoft Contact Center Agent Architecture
+
+| Agent | Persona |
+|-------|---------|
+| **Customer Assist Agent** | Customer and agent assistance |
+| **Quality Assurance Agent (QAA)** | Supervisor persona — quality, coaching, compliance, and monitoring |
+| **Service Operations Agent** | Admin and operational management |
